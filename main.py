@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+def greaterthan(x, y):
+    if x > y:
+        return True
+    else:
+        return False
+
