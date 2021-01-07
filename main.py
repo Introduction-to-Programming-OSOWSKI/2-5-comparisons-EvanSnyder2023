@@ -4,3 +4,4 @@ def greaterthan(x, y):
     else:
         return False
 
+print(greaterthan(5, 1))
